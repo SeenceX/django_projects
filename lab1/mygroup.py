@@ -58,3 +58,4 @@ print_students(groupmates)
 avg_s = float(input())
 
 avg_score(groupmates, avg_s)
+
